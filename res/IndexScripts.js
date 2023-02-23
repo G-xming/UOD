@@ -15,7 +15,7 @@ function MCC(){
 }
 
 function EM(){
-    location.href= 'https://g-xming.github.io/EM/'
+    location.href= 'https://g-xming.github.io/Play/MS'
 }
 
 function MC152IF(){
@@ -23,5 +23,25 @@ function MC152IF(){
 }
 
 function MSIF(){
-    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/MS/main/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
+    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/MS/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
+}
+
+function DTH(){
+    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/DTH/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
+}
+
+function BLOX(){
+    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/Bloxors/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
+}
+
+function ENF(){
+    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/ENF/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
+}
+
+function HEX(){
+    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/Hextris/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
+}
+
+function IB(){
+    document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/IB/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
 }
