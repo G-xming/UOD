@@ -42,6 +42,22 @@ function DL4(){
     location.href= 'https://g-xming.github.io/DL/4'
 }
 
+function BTD1(){
+    location.href= 'https://g-xming.github.io/BTD/1'
+}
+
+function BTD2(){
+    location.href= 'https://g-xming.github.io/BTD/2'
+}
+
+function BTD4(){
+    location.href= 'https://g-xming.github.io/BTD/4'
+}
+
+function BTD5(){
+    location.href= 'https://g-xming.github.io/BTD/5'
+}
+
 function MC152IF(){
     document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/MC152/main/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
 }
