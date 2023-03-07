@@ -22,6 +22,10 @@ function GS(){
     location.href= 'https://g-xming.github.io/GS'
 }
 
+function WDL(){
+    location.href= 'https://g-xming.github.io/Play/Wordle'
+}
+
 function MC152IF(){
     document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/MC152/main/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
 }
