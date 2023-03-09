@@ -117,3 +117,19 @@ function Solitare(){
 function Paper(){
     location.href= 'https://g-xming.github.io/Play/Paper'
 }
+
+function UFM(){
+    location.href= 'https://g-xming.github.io/Play/UM'
+}
+
+function WGL(){
+    location.href= 'https://g-xming.github.io/Play/WebGL'
+}
+
+function SMH(){
+    location.href= 'https://g-xming.github.io/Play/SMH'
+}
+
+function STC(){
+    location.href= 'https://g-xming.github.io/Play/STC'
+}
