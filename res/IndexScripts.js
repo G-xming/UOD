@@ -85,3 +85,35 @@ function HEX(){
 function IB(){
     document.body.innerHTML = '<iframe src="https://raw.githack.com/G-xming/Play/main/IB/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>'
 }
+
+function V3(){
+    location.href= 'https://g-xming.github.io/Vex/3'
+}
+
+function V4(){
+    location.href= 'https://g-xming.github.io/Vex/4'
+}
+
+function V5(){
+    location.href= 'https://g-xming.github.io/Vex/5'
+}
+
+function V6(){
+    location.href= 'https://g-xming.github.io/Vex/6'
+}
+
+function V7(){
+    location.href= 'https://g-xming.github.io/Vex/7'
+}
+
+function Run3(){
+    location.href= 'https://g-xming.github.io/Play/Run3'
+}
+
+function Solitare(){
+    location.href= 'https://g-xming.github.io/Play/Solitare'
+}
+
+function Paper(){
+    location.href= 'https://g-xming.github.io/Play/Paper'
+}
