@@ -133,3 +133,63 @@ function SMH(){
 function STC(){
     location.href= 'https://g-xming.github.io/Play/STC'
 }
+
+function SBB(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/2020SuperBaseball'
+}
+
+function MK(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/MortalKombat'
+}
+
+function MK2(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/MortalKombat2'
+}
+
+function MK3(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/MortalKombat3'
+}
+
+function SF2TWW(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/StreetFighter2TheWorldWarrior'
+}
+
+function SF2THF(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/StreetFighter2TurboHyperFighting'
+}
+
+function SF3SV(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/StreetFighter3SuperVersion'
+}
+
+function SFA2(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/StreetFighterAlpha2'
+}
+
+function SFEXPA(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/StreetFighterEXPlusAlpha'
+}
+
+function SMAS(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/SuperMarioAllStars'
+}
+
+function SMK(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/SuperMarioKart'
+}
+
+function SMRPGLOTSS(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/SuperMarioRPGLegendOfTheSevenStars'
+}
+
+function SMW(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/SuperMarioWorld'
+}
+
+function SMW2YI(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/SuperMarioWorld2YoshisIsland'
+}
+
+function WWFWMTAG(){
+    location.href= 'https://g-xming.github.io/Emulator/SNES/WWFWrestleManiaTheArcadeGame'
+}
